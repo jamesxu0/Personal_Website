@@ -315,6 +315,7 @@ button:focus,
 .header .content .social-icon {
     margin  : 0;
     padding : 0;
+    padding-top: 10px;
     display : block;
     }
 
@@ -337,6 +338,7 @@ button:focus,
 
 .header .content .social-icon li a:hover {
     border-color : #ffffff;
+    background: #96c0c0c0;
     }
 
 @media (max-width : 600px) {
@@ -589,6 +591,12 @@ button:focus,
     margin     : 0;
     text-align : center;
     top        : 65%;
+}
+
+#typed {
+    color: white;
+    display: inline;
+    margin-bottom: 40px;
 }
 
 .wow {
