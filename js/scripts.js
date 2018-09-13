@@ -12,3 +12,5 @@ jQuery(function ($) {
 
 
 }); // JQuery end
+
+new WOW().init();

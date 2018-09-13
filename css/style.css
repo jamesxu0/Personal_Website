@@ -589,4 +589,8 @@ button:focus,
     margin     : 0;
     text-align : center;
     top        : 65%;
-    }
+}
+
+.wow {
+    visibility: hidden;
+}
