@@ -489,6 +489,7 @@ button:focus,
 
 .content-item .bottom-margin {
     margin-bottom: 0px;
+    line-height: 24px;
 }
 
 .content-item small {
